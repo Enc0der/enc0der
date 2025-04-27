@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Topalidi Aleksandra
 ===========================================================================================================================================
 
-Data Analyst with experience in DS and ML
+I'm Data Analyst with experience in DS and ML
 -----------------------------------------
 
 Data Analyst with over 2 years of experience. I develop dashboards, conduct exploratory data analysis, formulate hypotheses, and validate them using statistical methods and A/B testing. I have experience working with business stakeholders: translating business requirements into technical solutions and automating processes. I am looking to grow in product analytics and data-driven business process development.
